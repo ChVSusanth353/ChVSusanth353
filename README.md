@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChVSusanth353
 - 👀 I’m interested in Website Designing
-- 🌱 I’m currently learning developing small web applications
+- 🌱 I’m currently  developing small web applications
 
 
 <!---
